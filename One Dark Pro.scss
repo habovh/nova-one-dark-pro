@@ -186,11 +186,14 @@ identifier.core.function {
 }
 
 /* Strings */
+string.key {
+  color: $red;
+}
+
 string,
-string.key,
 string-template,
 string-template.value {
-  color: #99c27c;
+  color: $green;
 }
 
 string.double-quoted.escape,

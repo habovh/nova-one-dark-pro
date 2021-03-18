@@ -153,11 +153,13 @@ identifier.core.function {
   color: #56b6c2; }
 
 /* Strings */
+string.key {
+  color: #e06c75; }
+
 string,
-string.key,
 string-template,
 string-template.value {
-  color: #99c27c; }
+  color: #98c379; }
 
 string.double-quoted.escape,
 string.single-quoted.escape,
