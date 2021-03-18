@@ -307,6 +307,19 @@ python.identifier.argument.name {
   color: $orange;
 }
 
+/* JSX / TSX */
+
+jsx.value.variable.bracket,
+tsx.value.variable.bracket {
+  color: $magenta;
+}
+
+tsx.tag.name.framework,
+jsx.tag.open.name.framework,
+tsx.tag.open.name.framework {
+  color: $yellow;
+}
+
 /* Terminal */
 terminal.red {
   color: $red;

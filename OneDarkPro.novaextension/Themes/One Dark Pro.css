@@ -259,6 +259,16 @@ style.value.bracket {
 python.identifier.argument.name {
   color: #d19966; }
 
+/* JSX / TSX */
+jsx.value.variable.bracket,
+tsx.value.variable.bracket {
+  color: #c678dd; }
+
+tsx.tag.name.framework,
+jsx.tag.open.name.framework,
+tsx.tag.open.name.framework {
+  color: #e5c07b; }
+
 /* Terminal */
 terminal.red {
   color: #e06c75; }
