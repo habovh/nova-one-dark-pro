@@ -87,7 +87,7 @@ meta.document.textfield {
 /* Text */
 
 meta.text {
-  color: #abb2bf;
+  color: $white;
 }
 meta.text.invisible {
   color: #3b4047;
@@ -233,7 +233,7 @@ markup.list.item {
   color: #dd6d77;
 }
 markup.code {
-  color: #98c379;
+  color: $green;
 }
 
 /* Types */
