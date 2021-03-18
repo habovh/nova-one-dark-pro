@@ -85,11 +85,11 @@ meta.indentguide {
 
 /* Gutter */
 meta.gutter {
-  color: #3b4047; }
+  color: #495162; }
 
 meta.gutter.selected {
   background-color: #333842;
-  color: #4e5562; }
+  color: #abb2bf; }
 
 /*
 * Syntax styles
