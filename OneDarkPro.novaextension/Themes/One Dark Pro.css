@@ -274,6 +274,12 @@ javascript.key.name,
 javascript.identifier.argument.name {
   color: #e06c75; }
 
+/* JSON */
+json.comma,
+json.operator.colon,
+json.array {
+  color: #abb2bf; }
+
 /* Terminal */
 terminal.red {
   color: #e06c75; }

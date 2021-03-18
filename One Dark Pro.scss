@@ -327,6 +327,14 @@ javascript.identifier.argument.name {
   color: $red;
 }
 
+/* JSON */
+
+json.comma,
+json.operator.colon,
+json.array {
+  color: $white;
+}
+
 /* Terminal */
 terminal.red {
   color: $red;
