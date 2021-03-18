@@ -298,10 +298,15 @@ style.selector.identifier.id {
   color: $blue;
 }
 
+style.value.keyword,
 style.value.color.hex {
+  color: $orange;
+}
+style.value.identifier.function {
   color: $cyan;
 }
 
+style.value.number.unit,
 style.selector.attribute.pseudoclass,
 style.selector.attribute.pseudoelement,
 style.attribute.identifier.name,

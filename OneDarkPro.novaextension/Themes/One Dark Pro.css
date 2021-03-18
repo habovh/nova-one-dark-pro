@@ -251,9 +251,14 @@ style.selector.identifier.class {
 style.selector.identifier.id {
   color: #61afee; }
 
+style.value.keyword,
 style.value.color.hex {
+  color: #d19966; }
+
+style.value.identifier.function {
   color: #56b6c2; }
 
+style.value.number.unit,
 style.selector.attribute.pseudoclass,
 style.selector.attribute.pseudoelement,
 style.attribute.identifier.name,
