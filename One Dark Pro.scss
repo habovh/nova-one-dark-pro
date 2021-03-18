@@ -196,6 +196,11 @@ string-template.value {
   color: $green;
 }
 
+string-template.open,
+string-template.close {
+  color: $magenta;
+}
+
 string.double-quoted.escape,
 string.single-quoted.escape,
 regex.escaped {

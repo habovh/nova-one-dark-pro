@@ -161,6 +161,10 @@ string-template,
 string-template.value {
   color: #98c379; }
 
+string-template.open,
+string-template.close {
+  color: #c678dd; }
+
 string.double-quoted.escape,
 string.single-quoted.escape,
 regex.escaped {
