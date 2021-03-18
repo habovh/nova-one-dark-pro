@@ -320,6 +320,13 @@ tsx.tag.open.name.framework {
   color: $yellow;
 }
 
+/* Javascript */
+
+javascript.key.name,
+javascript.identifier.argument.name {
+  color: $red;
+}
+
 /* Terminal */
 terminal.red {
   color: $red;

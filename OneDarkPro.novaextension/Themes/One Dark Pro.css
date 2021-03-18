@@ -269,6 +269,11 @@ jsx.tag.open.name.framework,
 tsx.tag.open.name.framework {
   color: #e5c07b; }
 
+/* Javascript */
+javascript.key.name,
+javascript.identifier.argument.name {
+  color: #e06c75; }
+
 /* Terminal */
 terminal.red {
   color: #e06c75; }
