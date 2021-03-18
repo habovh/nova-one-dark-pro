@@ -1,12 +1,12 @@
 {
-  "identifier": "benjaminhoegh.OneDark",
-  "name": "One Dark",
-  "organization": "Benjamin Høegh",
-  "description": "Atom One Dark theme for Nova.",
-  "version": "1.6.3",
-  "bugs": "https://github.com/BenjaminHoegh/OneDark.novaextension/issues",
-  "repository": "https://github.com/BenjaminHoegh/OneDark.novaextension",
-  "keywords": ["dark", "atom"],
+  "identifier": "io.becker.OneDarkPro",
+  "name": "One Dark Pro",
+  "organization": "Jordan Becker",
+  "description": "Atom One Dark Pro theme for Nova.",
+  "version": "1.0",
+  "bugs": "https://github.com/habovh/nova-one-dark-pro/issues",
+  "repository": "https://github.com/habovh/nova-one-dark-pro",
+  "keywords": ["dark", "atom", "pro"],
   "license": "MIT",
   "categories": ["themes"]
 }
