@@ -1,37 +1,9 @@
-## Version 1.6.3
-
-- Added new preview image in readme.
-- Changed the style of buttons to match Atom Dark One
-- Small change to extension.png
-
-## Version 1.6.1
-
-- Fixed issue with extension.png
-
-## Version 1.6
-
-- Corrected colors of css/scss variables.
-- Added Terminal theme
-- Fixed issue resolved in missing highlighting for HTML inside a PHP file
-- Support for XML/plist
-
-## Version 1.5
-
-- Corrected the colors of functions
-- Corrected the colors of variables
-- Corrected the colors of escaped
-- Corrected the colors of CSS separators
-- Corrected the colors of CSS `!important` and `!default`
-- And more...
-
-## Version 1.4
-
-- Changed UI Color.
-- CSS functions now get the right color.
-- CSS attribute selector now have colors.
-- Invisible characters now have the right color.
-- Gutters now have the right color.
-
 ## Version 1.0
 
-Most colors are and syntax have been added
+> Based on based on v1.6.3 of the [One Dark](https://github.com/BenjaminHoegh/OneDark.novaextension) theme by [@BenjaminHoegh](https://github.com/BenjaminHoegh).
+
+- Increase contrast in gutter text for improved legibility
+- Improve JSX, TSX, CSS, Javascript and JSON
+- Add default color (red) for unspecified identifiers
+- Add default color (yellow) for named identifiers
+- Add default color (red) for HTML-like tags
