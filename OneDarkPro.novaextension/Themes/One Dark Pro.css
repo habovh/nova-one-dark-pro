@@ -133,17 +133,22 @@ value.symbol {
 identifier.type {
   color: #d6b479; }
 
+identifier,
 identifier.global,
 identifier.variable,
 identifier.property,
 identifier.argument {
   color: #e06c75; }
 
+identifier.name {
+  color: #e5c07b; }
+
+identifier.function,
+identifier.name.function,
 identifier.decorator,
 identifier.method {
   color: #61afee; }
 
-identifier.function,
 identifier.core.function {
   color: #56b6c2; }
 

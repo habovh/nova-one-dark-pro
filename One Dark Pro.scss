@@ -162,6 +162,7 @@ identifier.type {
   color: #d6b479;
 }
 
+identifier,
 identifier.global,
 identifier.variable,
 identifier.property,
@@ -169,12 +170,17 @@ identifier.argument {
   color: $red;
 }
 
+identifier.name {
+  color: $yellow;
+}
+
+identifier.function,
+identifier.name.function,
 identifier.decorator,
 identifier.method {
   color: $blue;
 }
 
-identifier.function,
 identifier.core.function {
   color: $cyan;
 }
