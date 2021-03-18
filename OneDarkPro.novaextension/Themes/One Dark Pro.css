@@ -208,14 +208,14 @@ definition.method method.name {
   color: #56b6c2; }
 
 /* Tags */
-tag {
+tag.name {
   color: #e06c75; }
-
-tag.framework {
-  color: #be5046; }
 
 tag.attribute.name {
   color: #d19966; }
+
+tag.attribute.equals-sign {
+  color: #56b6c2; }
 
 tag.attribute.value {
   color: #98c379; }

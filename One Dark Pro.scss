@@ -247,14 +247,15 @@ definition.method method.name {
 }
 
 /* Tags */
-tag {
+tag.name {
   color: $red;
-}
-tag.framework {
-  color: $red-dark;
 }
 tag.attribute.name {
   color: $orange;
+}
+
+tag.attribute.equals-sign {
+  color: $cyan;
 }
 tag.attribute.value {
   color: $green;
