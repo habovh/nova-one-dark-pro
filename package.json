@@ -1,0 +1,18 @@
+{
+  "name": "nova-one-dark-pro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:habovh/nova-one-dark-pro.git",
+  "author": "Jordan Becker <jordanbeckerfr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "scss": "gulp scss",
+    "watch": "gulp scss:watch"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-sass": "^4.1.0",
+    "node-sass": "^5.0.0"
+  }
+}
