@@ -1,3 +1,7 @@
+## Version 1.2
+
+- Fix closing TSX tag that had same brackets (`<` and `>`) color as the name
+
 ## Version 1.1
 
 - Closing JSX/TSX tag names matches opening tag
