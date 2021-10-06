@@ -281,10 +281,8 @@ tsx.value.variable.bracket {
   color: #c678dd; }
 
 tsx.tag.name.framework,
-tsx.tag.close.framework,
 jsx.tag.open.name.framework,
-jsx.tag.close.name.framework,
-tsx.tag.open.name.framework {
+jsx.tag.close.name.framework {
   color: #e5c07b; }
 
 /* Javascript */
