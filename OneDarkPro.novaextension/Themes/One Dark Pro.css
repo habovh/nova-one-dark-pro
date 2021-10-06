@@ -281,7 +281,9 @@ tsx.value.variable.bracket {
   color: #c678dd; }
 
 tsx.tag.name.framework,
+tsx.tag.close.framework,
 jsx.tag.open.name.framework,
+jsx.tag.close.name.framework,
 tsx.tag.open.name.framework {
   color: #e5c07b; }
 
@@ -289,6 +291,9 @@ tsx.tag.open.name.framework {
 javascript.key.name,
 javascript.identifier.argument.name {
   color: #e06c75; }
+
+javascript.identifier.constant {
+  color: #e5c07b; }
 
 /* JSON */
 json.comma,

@@ -335,7 +335,9 @@ tsx.value.variable.bracket {
 }
 
 tsx.tag.name.framework,
+tsx.tag.close.framework,
 jsx.tag.open.name.framework,
+jsx.tag.close.name.framework,
 tsx.tag.open.name.framework {
   color: $yellow;
 }
@@ -345,6 +347,9 @@ tsx.tag.open.name.framework {
 javascript.key.name,
 javascript.identifier.argument.name {
   color: $red;
+}
+javascript.identifier.constant {
+  color: $yellow;
 }
 
 /* JSON */
