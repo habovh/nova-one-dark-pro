@@ -1,3 +1,7 @@
+## Version 1.1
+
+- Closing JSX/TSX tag names matches opening tag
+
 ## Version 1.0
 
 > Based on based on v1.6.3 of the [One Dark](https://github.com/BenjaminHoegh/OneDark.novaextension) theme by [@BenjaminHoegh](https://github.com/BenjaminHoegh).
