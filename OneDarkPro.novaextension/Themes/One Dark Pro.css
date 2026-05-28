@@ -130,14 +130,18 @@ value.symbol {
   color: #61afee; }
 
 /* Identifiers */
-identifier.type {
-  color: #d6b479; }
-
 identifier,
 identifier.global,
 identifier.variable,
 identifier.property,
 identifier.argument {
+  color: #e06c75; }
+  
+identifier.type,
+identifier.declare {
+  color: #d6b479; }
+  
+identifier.type.constructor {
   color: #e06c75; }
 
 identifier.name {
@@ -280,10 +284,18 @@ jsx.value.variable.bracket,
 tsx.value.variable.bracket {
   color: #c678dd; }
 
-tsx.tag.name.framework,
+tsx.tag.name, jsx.tag.name,
 jsx.tag.open.name.framework,
 jsx.tag.close.name.framework {
   color: #e5c07b; }
+  
+jsx.tag.attribute.name {
+  color: #e06c75;
+}
+
+jsx.bracket, tsx.bracket {
+  color: red;
+}
 
 /* Javascript */
 javascript.key.name,
