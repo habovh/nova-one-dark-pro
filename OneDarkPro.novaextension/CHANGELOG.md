@@ -1,3 +1,7 @@
+## Version 1.4
+
+- Improved JSX/TSX definitions
+
 ## Version 1.2
 
 - Fix closing TSX tag that had same brackets (`<` and `>`) color as the name
